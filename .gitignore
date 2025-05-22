@@ -1,0 +1,10 @@
+__pycache__/
+checkpoints/
+output/
+runs/
+test_in/
+test_out/
+train_raws/
+val_lr/
+val_pred/
+test_lr/
